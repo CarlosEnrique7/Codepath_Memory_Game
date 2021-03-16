@@ -32,8 +32,8 @@ The following additional features are implemented:
 
 [Add difficulty stages where user picks between to set speed of game. Improve the app to be more responsive.] List anything else that you can get done to improve the app!
 Video Walkthrough
-Here's a walkthrough of implemented user stories: 
-Gif of app walkthrough: https://imgur.com/a/fD2V8as
+Here's a walkthrough of implemented user stories:
+Gif of app walkthrough: https://i.imgur.com/jaeresE.mp4
 
 Reflection Questions
 If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
